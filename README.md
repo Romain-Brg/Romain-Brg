@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Romain-Brg
-- 📖 I'm currently applying for an IT degree in an french unisversity
+- 📖 I'm currently applying for an IT degree in a french university
 - 🌱 I’m learning HTML and CSS
 
 <!---
