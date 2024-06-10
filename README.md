@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Romain-Brg
 - 📖 I'm currently applying for an IT degree in a french university
-- 🌱 I’m learning HTML/CSS and C++.
+- 🌱 I’m learning JavaScript, SQL and C++.
 
 <!---
 Romain-Brg/Romain-Brg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
